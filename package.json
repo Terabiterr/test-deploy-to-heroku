@@ -1,0 +1,18 @@
+{
+  "name": "heroku_app",
+  "version": "1.0.0",
+  "description": "deploy to heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Academy Step Dombrovsky I.V.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "18.5.0",
+    "npm": "8.12.1"
+  }
+}
